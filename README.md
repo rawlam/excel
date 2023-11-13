@@ -11,6 +11,8 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 ![Graph 2](./Images/GoalOutcomes.png)
 ![Graph 3](./Images/LaunchDateOutcomes.png)
 ![Graph 4](./Images/SubcategoryStats.png)
+![Graph 5](./Images/BoxAndWhiskerPlot.png)
+
 
 After looking at all three graphs I can conclude, Technology has the highest percentage of success above other categories at 67% followed by photography (61.9%) then publishing (59.7%). Campaigns completing in the months of June and July have a higher success rate, while August to December accounts for a decreasing success rate. Although most fields within the entertainment industry, such as theater, film & video and music, have the highest participation on these platforms, gaming, a large proportion of the industry is significantly less present. 
 
